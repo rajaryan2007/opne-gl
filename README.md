@@ -17,8 +17,7 @@ This project renders a **colored square** using modern OpenGL in C++. It uses **
 
 ## 📸 Preview
 
-
-> _This image can be added after you take a screenshot of the running project_
+![Screenshot](assets/colour%20rectangle.png)
 
 ---
 
