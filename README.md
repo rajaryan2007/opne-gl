@@ -22,7 +22,7 @@ This project renders a **colored square** using modern OpenGL in C++. It uses **
 ---
 
 ## 📂 Project Structure
-
+'''
 opengl-colored-square/
 ├── main.cpp # Main OpenGL code
 ├── ShaderClass.h # Shader loading and compiling
@@ -32,7 +32,7 @@ opengl-colored-square/
 ├── default.vert # Vertex shader
 ├── default.frag # Fragment shader
 └── README.md # You're here!
-
+'''
 
 ---
 
